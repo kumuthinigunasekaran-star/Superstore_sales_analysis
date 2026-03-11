@@ -1,2 +1,2 @@
 # Customer_analysis
-In this project, customer transaction data is analyzed to understand purchasing behavior and identify different types of customers. Businesses can use this type of analysis to improve customer engagement and reduce churn. 
+The analysis is to identify the best-performing regions and product categories, understand sales trends over time, and provide recommendations that can help improve business performance. Python libraries such as Pandas, Matplotlib, and Seaborn are used to clean the dataset, perform analysis, and visualize the results.
